@@ -3,7 +3,7 @@
 ## Software Needed
 - XAMPP, WAMP, or any which has a PHP Version >= 8
 
-Please Open your **XAMPP/WAMP's Control Panel** and start **Apache** and **MySQL**
+Please Open your **XAMPP/WAMP/LAMP's Control Panel** and start **Apache** and **MySQL**
 
 ## Instructions
 
@@ -16,4 +16,4 @@ Please Open your **XAMPP/WAMP's Control Panel** and start **Apache** and **MySQL
 - **Email:** admin@mail.com
 - **Password:** admin123
 
-This demo source code was created by **oretnom23**
+This demo source code was created by **ajityadav**
